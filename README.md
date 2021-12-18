@@ -23,6 +23,6 @@
 <img align="center" alt="Python logo" width="22px" src="Assets/code-branch-solid.svg"> &nbsp; Bhomika Ratna Mandavi E - 12
 <br> <br>
 <img align="center" alt="Python logo" width="22px" src="Assets/code-branch-solid.svg"> &nbsp; Ritesh Kumar Thakur E - 40
- 
+ <br> <br>
 ## Guided BY :
 ## Prof. Chaitali Choudhary 
